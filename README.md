@@ -1,7 +1,7 @@
 <h1 align="center"> CRUD TO CQRS </h1>
 
 <p align="center">
-CQRS É um padrão arquitetural muito utilizado em sistemas complexos onde se necessita haver uma consistência entre o dados presentes no banco. Para isso, o padrão sugere a divisão dos Commands e das Queries do sistema. A divisão faz com que o banco não relacional tenha comunicação integrada
+CQRS É um padrão arquitetural muito utilizado em sistemas complexos onde há a necessidade de uma certa consistência entre o grande volume de dados presentes no banco. Para isso, o padrão sugere a divisão dos Commands e das Queries do sistema. A divisão faz com que o banco não relacional tenha comunicação integrada
   com o banco relacional. No caso do exemplo aqui, utilizamos o MongoDb e Sqlite.<br/>
 </p>
 
