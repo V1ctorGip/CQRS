@@ -37,4 +37,4 @@ Este projeto é licenciado sob a licença MIT.
 
 ---
 
-Projeto desenvolvido por Victor de Oliveira.
+Projeto desenvolvido por Adan Campos Diniz, Anna Júlia Lira, Felipe Pazim e Victor De Oliveira.
